@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 let nombres = ["Juan", "María", "Pedro", "Ana"];
 console.log("Nombres: " + nombres.join(", "));
 let mixto = ["Hola", 42, true, { nombre: "Carlos" }];
@@ -47,4 +45,5 @@ var DiaDeLaSemana;
 })(DiaDeLaSemana || (DiaDeLaSemana = {}));
 let dia = DiaDeLaSemana.Jueves;
 console.log("Dia: " + dia);
+export {};
 //# sourceMappingURL=listas.js.map

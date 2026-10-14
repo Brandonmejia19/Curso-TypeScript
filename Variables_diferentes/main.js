@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 let variableAny; //VARIABLE QUE CAMBIA EL TIPO
 variableAny = 10; //number
 variableAny = "Hola"; //string
@@ -18,4 +16,5 @@ function logMessage(message) {
     console.log("Log Message: " + message);
 }
 logMessage(message);
+export {};
 //# sourceMappingURL=main.js.map

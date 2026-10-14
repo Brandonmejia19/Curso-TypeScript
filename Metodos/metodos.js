@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 function ImprimirMensaje(mensaje) {
     console.log("Mensaje: " + mensaje);
 }
@@ -8,4 +6,5 @@ function sumar(a, b) {
     return a + b;
 }
 console.log("Total: " + sumar(5, 10));
+export {};
 //# sourceMappingURL=metodos.js.map

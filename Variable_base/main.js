@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 let nombre = "Mundo";
 let edad = 30;
 let mes = "Enero";
@@ -11,4 +9,5 @@ console.log(`Hello, ${nombre}!` +
     `You are ${edad} years old.` +
     "\n" +
     `The current month is ${mes}.`);
+export {};
 //# sourceMappingURL=main.js.map
